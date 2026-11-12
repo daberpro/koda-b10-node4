@@ -1,4 +1,4 @@
-import filterUser from "./filter.js"
+import filterUser from "./filter.js";
 
 /**
  * @returns {Promise<void>}
